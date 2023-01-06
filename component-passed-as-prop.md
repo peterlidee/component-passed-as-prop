@@ -102,7 +102,7 @@ And here is a list of the things we are going to test:
 
 ### 1. Parent renders
 
-We test if the `Parent` renders by testing if the text `component Parent` is in the ***screen***.
+We test if the `Parent` renders by testing if the text `component Parent` is in the *screen*.
 
 ```jsx
 // components/__test__/Parent.test.js
